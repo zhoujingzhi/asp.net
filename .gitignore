@@ -1,0 +1,9 @@
+# compiled files
+obj
+bin
+# user files
+.user
+.suo
+x64/
+x86/
+.vs/
